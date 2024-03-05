@@ -1,3 +1,5 @@
 # Name Anagram
 
-This script should generate an anagram based on your name input (recommended name and surname). This is not working yet.
+The script generates a two word anagram based on input data, ignoring spaces and new lines.
+
+Recomended: Name + Last Name and you should be good.
